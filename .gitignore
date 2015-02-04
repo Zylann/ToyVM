@@ -1,0 +1,30 @@
+# Build and run files
+_bin/
+_obj/
+*.o
+*.dll
+*.exe
+*.so
+*.lib
+*.a
+*.obj
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.log
+*.lastbuildstate
+*.tlog
+*.pdb
+*.idb
+*.exp
+*.ilk
+*.filters
+
+# Other
+_old/
+
